@@ -1,0 +1,1 @@
+define(function () { return { "default": require("core-js/library/fn/math/clz32"), __esModule: true }; });

@@ -1,0 +1,1 @@
+define(function () { return { "default": require("core-js/library/fn/array/shift"), __esModule: true }; });
