@@ -1,5 +1,5 @@
 {
-  "name": "babel-runtime",
+  "name": "babel-runtime-amd",
   "version": "6.20.0",
   "license": "MIT",
   "repository": "https://github.com/elegant-view/babel-runtime",
