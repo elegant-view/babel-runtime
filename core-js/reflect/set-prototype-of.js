@@ -1,1 +1,0 @@
-define(function () { return { "default": require("core-js/library/fn/reflect/set-prototype-of"), __esModule: true }; });

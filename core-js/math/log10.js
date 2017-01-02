@@ -1,1 +1,0 @@
-define(function () { return { "default": require("core-js/library/fn/math/log10"), __esModule: true }; });

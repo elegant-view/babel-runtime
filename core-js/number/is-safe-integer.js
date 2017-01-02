@@ -1,1 +1,0 @@
-define(function () { return { "default": require("core-js/library/fn/number/is-safe-integer"), __esModule: true }; });
